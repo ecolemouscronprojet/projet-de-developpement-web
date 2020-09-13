@@ -2,6 +2,7 @@
 
 ## VIDEO
 
+[ici](https://youtu.be/bT4VOH-RFNM)
 
 
 ## La console
