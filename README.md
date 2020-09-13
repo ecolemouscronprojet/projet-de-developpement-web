@@ -1,11 +1,22 @@
 # Projet de développement web
 
-## les bases du pour bien démarrer
+1. [Les bases pour bien démarrer](documentation/bases.md)
 
-## Initiation à la console
+2. Inscription Github, Netlify et installation de NodeJS, git
 
-## Installation des librairies
+3. Initiation à GIT et NPM
 
-## Manipulation du DOM
+4. Installation des librairies
 
-## les évenements HTML
+5. Manipulation du DOM
+
+6. les évenements HTML
+
+7. Requêtes ajax
+
+8. Déployer son projet sur Netlify
+
+
+
+
+
