@@ -5,21 +5,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" 
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" 
+    crossorigin="anonymous">
+    
+    <style>
+        #image{
+        width: 250px;
+        height: 250px;
+        background: url(bases/images/image.jpeg);
+        background-repeat: no-repeat;
+        border-radius: 9px;
+        }
+    </style>
 </head>
-<style>
-    #image{
-    width: 250px;
-    height: 250px;
-    background: url(bases/images/image.jpeg);
-    background-repeat: no-repeat;
-    border-radius: 9px;
-    }
-</style>
+
 <body>
     <marquee>
-        <h1 style="color: red">MESSAGE </h1>
+        <h1 style="color: red">Initiation aux librairies</h1>
     </marquee>
     <div id="image"></div>
+    <button id="bouton-bleu" class="btn btn-primary">Mon bouton</button>
+
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Nom</th>
+            <th scope="col">Prenom</th>
+            <th scope="col">Date de naissance</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Mark</td>
+            <td>Otto</td>
+            
+            <td>24-01-2000</td>
+          </tr>
+          <tr>
+            <td>Jacob</td>
+            <td>Thornton</td>
+            <td>24-01-2000</td>
+          </tr>
+        </tbody>
+      </table>
+
     <script type="text/javascript" src="js/main.js"></script>
 </body>
 
