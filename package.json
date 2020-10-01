@@ -1,0 +1,23 @@
+{
+  "name": "projet-de-developpement-web",
+  "version": "1.0.0",
+  "description": "1. [Les bases pour bien démarrer](documentation/bases.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecolemouscronprojet/projet-de-developpement-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecolemouscronprojet/projet-de-developpement-web/issues"
+  },
+  "homepage": "https://github.com/ecolemouscronprojet/projet-de-developpement-web#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  }
+}
