@@ -4,17 +4,19 @@
 
 2. Inscription Github, Netlify et installation de NodeJS, git
 
-3. Initiation à GIT et NPM
+3. [Manipulation de DOM et event listener](documentation/manipulation_dom.md)
 
-4. Installation des librairies
+4. Initiation à GIT et NPM
 
-5. Manipulation du DOM
+5. Installation des librairies
 
-6. les évenements HTML
+6. Manipulation du DOM
 
-7. Requêtes ajax
+7. les évenements HTML
 
-8. Déployer son projet sur Netlify
+8. Requêtes ajax
+
+9. Déployer son projet sur Netlify
 
 
 
