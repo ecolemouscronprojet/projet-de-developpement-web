@@ -6,6 +6,8 @@
 
 3. [Manipulation de DOM et event listener](documentation/manipulation_dom.md)
 
+3. [Création d'une voiture](documentation/car.md)
+
 4. Initiation à GIT et NPM
 
 5. Installation des librairies

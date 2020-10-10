@@ -1,0 +1,23 @@
+ #road {   
+    height: 150px;
+    background-color: #CCC;
+    border-bottom: 5px solid;
+    border-top: 5px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#line {
+    height: 10px;
+    border-top: 5px dashed #FFF;
+}
+
+#car {
+    width: 100px;
+    height: 50px;
+    top: 175px;
+    position: absolute;
+    background: url(car.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
