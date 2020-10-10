@@ -6,7 +6,7 @@ Continuez l'exercice sur la voiture, maintenant il faut que vous implémentiez l
 
 - [ ] Si l'on clique sur la flèche qui va à gauche la voiture part à gauche
 - [ ] Si l'on clique sur la flèche qui va à droit la voiture part à droit
-- [ ] Si l'on clique sur la flèche qui va à en arrère la voiture part en arrère
+- [ ] Si l'on clique sur la flèche qui va en arrière la voiture part en arrère
 - [ ] Si l'on clique sur la flèche qui va en avant la voiture part en avant
 
 ## Aide
@@ -22,7 +22,7 @@ Chaque clic du clavier à un code (`KeyCode`)
 - Clic haut => `38`
 - Clic bas => `40`
 
-````
+
 Vous allez devoir ajouter des conditions dans votre listener pour gérer celà
 ```php
 if(CLIC GAUCHE){
