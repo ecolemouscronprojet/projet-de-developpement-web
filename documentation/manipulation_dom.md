@@ -1,5 +1,12 @@
 # Manipulation de DOM et event listener
 
+
+## LA VIDEO RECAP
+
+ [Video](https://www.youtube.com/watch?v=CoEOlqqqvpo)
+
+
+
 ## Manipulation de DOM
 
 Vous pouvez manipuler des éléments sur votre page web sous la representation d'objet grace aux méthodes suivantes
