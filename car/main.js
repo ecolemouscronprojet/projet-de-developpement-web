@@ -8,7 +8,6 @@ setInterval(function () {
 let x = 0;
 let y = 0;
 document.addEventListener("keydown", function (event) {
-
   if (event.code == "ArrowRight") {
     x += 10;
     //car.style.transform = 'translateX(' + x +'px)';
@@ -20,5 +19,5 @@ document.addEventListener("keydown", function (event) {
     y -= 10;
   }
   car.style.transform = `translate(${x}px, ${y}px)`;
-
+  console.log('yooo', car.style.transform);
 });
