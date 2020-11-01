@@ -23,4 +23,15 @@
 
 
 
+# Création d'une API REST
+
+Attention: L'api est un projet indépendant, il ne doit pas être placé dans un projet déjà existant !
+
+
+ - [Vidéo 1](https://www.youtube.com/watch?v=a3z1JWKUc7I)
+ - [Vidéo 2](https://www.youtube.com/watch?v=xlB9h1cVtBs)
+ - [Vidéo 3](https://www.youtube.com/watch?v=VY644plilc8)
+
+
+
 
