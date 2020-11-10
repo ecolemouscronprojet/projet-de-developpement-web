@@ -21,6 +21,9 @@
 9. Déployer son projet sur Netlify
 
 
+# GIT
+- [Mettre un projet sous Github](https://www.youtube.com/watch?v=L-qyenqr-bI)
+
 
 
 # Création d'une API REST
@@ -31,6 +34,7 @@ Attention: L'api est un projet indépendant, il ne doit pas être placé dans un
  - [Vidéo 1](https://www.youtube.com/watch?v=a3z1JWKUc7I)
  - [Vidéo 2](https://www.youtube.com/watch?v=xlB9h1cVtBs)
  - [Vidéo 3](https://www.youtube.com/watch?v=VY644plilc8)
+    - [Correction exercices](https://www.youtube.com/watch?v=_vWoAvTSTt8)
 
 
 
