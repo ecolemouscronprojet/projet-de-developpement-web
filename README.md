@@ -26,7 +26,7 @@
 
 
 
-# Création d'une API REST
+# API REST
 
 Attention: L'api est un projet indépendant, il ne doit pas être placé dans un projet déjà existant !
 
@@ -39,5 +39,10 @@ Attention: L'api est un projet indépendant, il ne doit pas être placé dans un
 - [Vidéo 4](https://www.youtube.com/watch?v=fr6CLs0K5YU)
 
 
+
+# Application frontend
+
+-  [Vidéo 1: Mise en place du projet](https://www.youtube.com/watch?v=eBRN0w6_Xqg)
+-  [Vidéo 2: Initiation à GULP](https://www.youtube.com/watch?v=3sXplZ32ns8)
 
 
