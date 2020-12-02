@@ -44,5 +44,7 @@ Attention: L'api est un projet indépendant, il ne doit pas être placé dans un
 
 -  [Vidéo 1: Mise en place du projet](https://www.youtube.com/watch?v=eBRN0w6_Xqg)
 -  [Vidéo 2: Initiation à GULP](https://www.youtube.com/watch?v=3sXplZ32ns8)
+-  [Vidéo 3: Refactoriser list.js](https://www.youtube.com/watch?v=_rawlkkFWVQ)
+-  [Vidéo 4: Suppression des voitures](https://www.youtube.com/watch?v=M6jPxxJAycI)
 
 
