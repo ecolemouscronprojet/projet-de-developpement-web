@@ -47,5 +47,6 @@ Attention: L'api est un projet indépendant, il ne doit pas être placé dans un
 -  [Vidéo 3: Refactoriser list.js](https://www.youtube.com/watch?v=_rawlkkFWVQ)
 -  [Vidéo 4: Suppression des voitures](https://www.youtube.com/watch?v=M6jPxxJAycI)
 -  [Vidéo 5: Implémentation modal bootstrap ](https://www.youtube.com/watch?v=O7ECbVBDkE4)
+-  [Vidéo 6: Ajouter un véhicule ](https://www.youtube.com/watch?v=lGKT8us0wf0)
 
 
