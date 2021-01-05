@@ -37,6 +37,7 @@ Attention: L'api est un projet indépendant, il ne doit pas être placé dans un
     - [Correction exercices](https://www.youtube.com/watch?v=_vWoAvTSTt8)
 - [Asynchrone, callback, promise et async await](https://www.youtube.com/watch?v=nJ7Mrrpw7WI)    
 - [Vidéo 4](https://www.youtube.com/watch?v=fr6CLs0K5YU)
+- [Vidéo 5: exercices async await](https://www.youtube.com/watch?v=tzLbA9d_OPc)
 
 
 
@@ -48,5 +49,6 @@ Attention: L'api est un projet indépendant, il ne doit pas être placé dans un
 -  [Vidéo 4: Suppression des voitures](https://www.youtube.com/watch?v=M6jPxxJAycI)
 -  [Vidéo 5: Implémentation modal bootstrap ](https://www.youtube.com/watch?v=O7ECbVBDkE4)
 -  [Vidéo 6: Ajouter un véhicule ](https://www.youtube.com/watch?v=lGKT8us0wf0)
+-  [Vidéo 7: Modifier un véhicule ](https://www.youtube.com/watch?v=B7h0m7rXJyI )
 
 
