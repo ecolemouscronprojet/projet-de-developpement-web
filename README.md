@@ -38,6 +38,7 @@ Attention: L'api est un projet indépendant, il ne doit pas être placé dans un
 - [Asynchrone, callback, promise et async await](https://www.youtube.com/watch?v=nJ7Mrrpw7WI)    
 - [Vidéo 4](https://www.youtube.com/watch?v=fr6CLs0K5YU)
 - [Vidéo 5: exercices async await](https://www.youtube.com/watch?v=tzLbA9d_OPc)
+- [Vidéo 5: implementation d'une 2ème table](https://www.youtube.com/watch?v=CBlkxuYBHWo)
 
 
 
