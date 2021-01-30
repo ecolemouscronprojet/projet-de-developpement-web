@@ -51,5 +51,6 @@ Attention: L'api est un projet indépendant, il ne doit pas être placé dans un
 -  [Vidéo 5: Implémentation modal bootstrap ](https://www.youtube.com/watch?v=O7ECbVBDkE4)
 -  [Vidéo 6: Ajouter un véhicule ](https://www.youtube.com/watch?v=lGKT8us0wf0)
 -  [Vidéo 7: Modifier un véhicule ](https://www.youtube.com/watch?v=B7h0m7rXJyI )
+-  [Vidéo 8: Résolution des problèmes après la MAJ du back ](https://www.youtube.com/watch?v=v01LIRN3yYw )
 
 
